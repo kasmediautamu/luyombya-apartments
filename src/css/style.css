@@ -181,6 +181,7 @@
   border: 1px solid #d1dce5;
   margin-bottom: 5px;
   padding:10px;
+  cursor: pointer;
 }
 .location div {
   display:flex;
