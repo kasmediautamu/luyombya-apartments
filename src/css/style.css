@@ -575,7 +575,7 @@ a:focus {
     margin-left:10px;
     margin-right: 20%;
     background-color: #FFF;
-    min-width:90%;
+    min-width:100%;
 }
 .card-title {
   color:#3F5C76;
